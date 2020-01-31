@@ -1,5 +1,5 @@
 # env-setting-files
 
-## Common Eslint for Vue project
+Common Eslint for Vue project
 
-## Common Vscode setting json
+Common Vscode setting json
